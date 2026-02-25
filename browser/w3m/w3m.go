@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/iterx"
+	"github.com/daboyuka/kooky"
+	"github.com/daboyuka/kooky/internal/cookies"
+	"github.com/daboyuka/kooky/internal/iterx"
 )
 
 type w3mCookieStore struct {

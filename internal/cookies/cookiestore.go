@@ -6,9 +6,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/iterx"
-	"github.com/browserutils/kooky/internal/utils"
+	"github.com/daboyuka/kooky"
+	"github.com/daboyuka/kooky/internal/iterx"
+	"github.com/daboyuka/kooky/internal/utils"
 )
 
 // kooky.CookieStore without http.CookieJar and SubJar()

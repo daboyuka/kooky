@@ -3,10 +3,10 @@ package firefox
 import (
 	"errors"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/firefox"
-	"github.com/browserutils/kooky/internal/firefox/find"
+	"github.com/daboyuka/kooky"
+	"github.com/daboyuka/kooky/internal/cookies"
+	"github.com/daboyuka/kooky/internal/firefox"
+	"github.com/daboyuka/kooky/internal/firefox/find"
 )
 
 type firefoxFinder struct{}

@@ -11,10 +11,10 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/netscape"
-	"github.com/browserutils/kooky/internal/utils"
+	"github.com/daboyuka/kooky"
+	"github.com/daboyuka/kooky/internal/cookies"
+	"github.com/daboyuka/kooky/internal/netscape"
+	"github.com/daboyuka/kooky/internal/utils"
 )
 
 type lynxFinder struct{}

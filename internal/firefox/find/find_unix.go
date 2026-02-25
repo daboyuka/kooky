@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/browserutils/kooky/internal/wsl"
+	"github.com/daboyuka/kooky/internal/wsl"
 )
 
 func firefoxRoots(yield func(string, error) bool) {

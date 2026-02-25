@@ -9,8 +9,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/iterx"
+	"github.com/daboyuka/kooky"
+	"github.com/daboyuka/kooky/internal/iterx"
 )
 
 type fileHeader struct {

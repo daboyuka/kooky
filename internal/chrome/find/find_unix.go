@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/browserutils/kooky/internal/wsl"
+	"github.com/daboyuka/kooky/internal/wsl"
 )
 
 func chromeRoots(yield func(string, error) bool) {

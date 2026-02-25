@@ -3,8 +3,8 @@ package epiphany
 import (
 	"errors"
 
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/utils"
+	"github.com/daboyuka/kooky/internal/cookies"
+	"github.com/daboyuka/kooky/internal/utils"
 	"github.com/go-sqlite/sqlite3"
 )
 

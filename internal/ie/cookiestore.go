@@ -5,9 +5,9 @@ import (
 	"io"
 	"os"
 
-	"github.com/browserutils/kooky"
-	"github.com/browserutils/kooky/internal/cookies"
-	"github.com/browserutils/kooky/internal/utils"
+	"github.com/daboyuka/kooky"
+	"github.com/daboyuka/kooky/internal/cookies"
+	"github.com/daboyuka/kooky/internal/utils"
 
 	"www.velocidex.com/golang/go-ese/parser"
 )

@@ -4,7 +4,7 @@ import (
 	"context"
 	"errors"
 
-	"github.com/browserutils/kooky"
+	"github.com/daboyuka/kooky"
 )
 
 func CookieFilterYield(ctx context.Context, cookie *kooky.Cookie, errCookie error, yield func(*kooky.Cookie, error) bool, filters ...kooky.Filter) bool {

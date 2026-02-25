@@ -11,8 +11,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	"github.com/browserutils/kooky"
-	_ "github.com/browserutils/kooky/browser/all"
+	"github.com/daboyuka/kooky"
+	_ "github.com/daboyuka/kooky/browser/all"
 
 	"github.com/spf13/pflag"
 )

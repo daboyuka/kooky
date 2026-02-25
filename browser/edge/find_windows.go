@@ -7,7 +7,7 @@ import (
 	"os"
 	"path/filepath"
 
-	iefind "github.com/browserutils/kooky/internal/ie/find"
+	iefind "github.com/daboyuka/kooky/internal/ie/find"
 )
 
 func edgeChromiumRoots(yield func(string, error) bool) {
